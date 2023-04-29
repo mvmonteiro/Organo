@@ -17,10 +17,9 @@
 * Feature: adição de dados no localStorage para uma página persistente à refresh.
 
 ## Screenshots
-![Screenshot da tela inicial do AluraPlay](https://i.imgur.com/Kqt7v77.png)
-![Screenshot da tela inicial do AluraPlay](https://i.imgur.com/pTDYseM.png)
-![Screenshot da tela inicial do AluraPlay](https://i.imgur.com/gEtxTJH.png)
-![Screenshot da tela inicial do AluraPlay](https://i.imgur.com/39vyBov.png)
+![Screenshot da tela inicial do Organo](https://i.imgur.com/Kqt7v77.png)
+![Screenshot da tela inicial do Organo](https://i.imgur.com/pTDYseM.png)
+![Screenshot da tela inicial do Organo](https://i.imgur.com/39vyBov.png)
 
 ## Deploy
 https://organo-beta-mauve.vercel.app
