@@ -23,4 +23,4 @@
 ![Screenshot da tela inicial do AluraPlay](https://i.imgur.com/39vyBov.png)
 
 ## Deploy
-https://mvmonteiro.github.io/Organo/
+https://organo-beta-mauve.vercel.app
